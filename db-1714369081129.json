@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "title": "Dumad",
+      "body": "Water Body",
+      "publishedAt": "2024-04-12",
+      "id": 1
+    },
+    {
+      "title": "Hello",
+      "publishedAt": "2024-04-28",
+      "id": 2
+    },
+    {
+      "title": "qqqqqq",
+      "publishedAt": "2024-04-02",
+      "id": 3
+    },
+    {
+      "title": "ttt",
+      "body": "Duman",
+      "publishedAt": "2024-04-04",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Sasha004",
+      "email": "john@example.com",
+      "avatar": {
+        "rawFile": {
+          "path": "Снимок экрана 2024-04-28 в 11.35.14.png"
+        },
+        "src": "blob:http://localhost:3000/c25eed76-974a-43e5-9c68-9feb598ec3ac",
+        "title": "Снимок экрана 2024-04-28 в 11.35.14.png"
+      },
+      "id": "1"
+    },
+    {
+      "name": "Sasha",
+      "email": "albertov.sasha@bk.ru",
+      "avatar": {
+        "rawFile": {
+          "path": "Снимок экрана 2024-04-28 в 11.38.52.png"
+        },
+        "src": "blob:http://localhost:3000/f068c0e5-775b-411c-b7d3-469932f571c7",
+        "title": "Снимок экрана 2024-04-28 в 11.38.52.png"
+      },
+      "id": "ubN3t6o"
+    },
+    {
+      "name": "Eva Elfie",
+      "email": "albertov.sasha@bk.ru",
+      "avatar": {
+        "rawFile": {
+          "path": "Снимок экрана 2024-04-28 в 11.35.33.png"
+        },
+        "src": "blob:http://localhost:3000/90a594d6-1014-4ee6-a584-ca83f9297f9f",
+        "title": "Снимок экрана 2024-04-28 в 11.35.33.png"
+      },
+      "id": "7PgOEzI"
+    },
+    {
+      "name": "Elyssa",
+      "email": "ykylas2004@mail.ru",
+      "avatar": {
+        "rawFile": {
+          "path": "загружено.png"
+        },
+        "src": "blob:http://localhost:3000/874d27e1-d969-4e5c-bf98-70c702424d48",
+        "title": "загружено.png"
+      },
+      "id": "bqBqaPC"
+    }
+  ]
+}
